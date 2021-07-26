@@ -657,6 +657,22 @@ a {
 .container {
     max-width: 1000px;
 }
+.text-gras{
+    font-family: "helvetica";
+    font-weight: 400;
+    color: #575757;
+    font-size:20px;
+    padding-left:10%;
+    padding-right: 10%;
+}
+.text-italic{
+    font-style: italic;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.mini{
+    margin-bottom: 0;
+}
 
 .hero-bloc-text {
     font-size: 38px;
