@@ -195,7 +195,7 @@ a:hover {
 
 .d-bloc .panel,
 .l-bloc {
-    color: rgba(0, 0, 0, .5);
+    color: rgba(0, 0, 0, 1);
 }
 
 .d-bloc .panel button:hover,
@@ -456,8 +456,8 @@ nav .caret {
 .btn-d,
 .btn-d:hover,
 .btn-d:focus {
-    color: #FFF;
-    background: rgba(0, 0, 0, .3);
+    color: #000;
+    background: #F3976C;
 }
 
 button {
@@ -756,7 +756,7 @@ h4 {
 }
 
 .black{
-    color: : #000000;
+    color: #000000;
 }
 
 .portfolio-thumb {
