@@ -693,7 +693,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 16px;
 }
 
 .tight-width-whitespace {
@@ -725,7 +725,7 @@ h2 {
     line-height: 1.4em;
 }
 
-h3 {
+.text-correction {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 700;
